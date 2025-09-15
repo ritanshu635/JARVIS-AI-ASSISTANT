@@ -18,7 +18,7 @@ class ScreenAnalyzer:
     
     def __init__(self):
         # Set OpenAI API key
-        self.api_key = "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"
+       OPEN AI KEY
         openai.api_key = self.api_key
         self.client = openai.OpenAI(api_key=self.api_key)
         
