@@ -1,0 +1,62 @@
+============================================================
+JARVIS EMAIL DIGEST
+============================================================
+Generated: 2025-09-09 20:05:27
+Total Unread Emails: 5
+
+SUMMARY:
+--------------------
+🚨 Priority Alert ⚠️ Hey, this one looks super urgent. You need to take action ASAP: the college is threatening to prevent you from sitting for your exams if you don't pay the fees by September 20th! I know, it's stressful, but let's tackle this first. Please make a note of the deadline and set up an automatic payment or talk to someone about arranging a payment plan as soon as possible.
+
+📨 Quick Rundown So, what else is going on? It looks like you've got some other emails to attend to:
+EMAIL 2: 🎉 Congratulations! You're being invited to participate in the Tata Imagination Challenge. This might be a great opportunity for you, so I recommend checking it out and seeing if it aligns with your interests. The deadline isn't super urgent, but it's worth exploring.
+EMAIL 3: 👀 Looks like DEV Community is trying to get you more involved on their platform. They're asking you to refine your tags, which might help you discover new content or connect with others who share similar interests. It's a low-key opportunity, and you can take your time to think about it.
+EMAIL 4: 🚨 Quick reminder: the Tata Crucible Campus Quiz is hiring interns! You've got some eligibility requirements to meet, but this could be a great way to get involved with the company and gain experience. Don't worry too much about this one for now; you can explore it later.
+EMAIL 5: 🎊 Last but not least, there's an upcoming hackathon with TiDB AgentX Hackathon 2025! They're sharing some valuable tips on how to submit a great project, including video submission guidance. This seems like a fantastic opportunity, worth checking out when you've got some free time.
+
+How do these emails sound? Are there any that catch your attention right away?
+
+DETAILED EMAIL LIST:
+------------------------------
+
+EMAIL 1:
+From: RITANSHU <ritanshu1000@gmail.com>
+Subject: fees payment of college
+Preview: you have not paid the college fees of this semester if you dont pay it
+before 20th september it may lead to you will be not allowed to sit for
+your exams...
+----------------------------------------
+
+EMAIL 2:
+From: Tata Imagination Challenge <noreply@dare2compete.news>
+Subject: You actively participate in hiring challenges, this one’s tailor made for you!
+Preview: ...
+----------------------------------------
+
+EMAIL 3:
+From: DEV Community Onboarding <yo@dev.to>
+Subject: Refine which tags you follow on DEV
+Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+  <body style='font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetic...
+----------------------------------------
+
+EMAIL 4:
+From: Tata Crucible Campus Quiz <noreply@dare2compete.news>
+Subject: Tata Group is hiring interns* | Tata Crucible Campus Quiz- You are eligible
+Preview: ...
+----------------------------------------
+
+EMAIL 5:
+From: Devpost <support@devpost.com>
+Subject: 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025
+Preview: ( http://devpost.com )
+
+Hi Hackathon builders,
+
+ 
+
+Just 7 days left until the TiDB Hackathon submission deadline! We’re excited to see all the amazing projects you’ve been building.
+
+While rev...
+----------------------------------------

@@ -1,0 +1,62 @@
+============================================================
+JARVIS EMAIL DIGEST
+============================================================
+Generated: 2025-09-14 03:28:18
+Total Unread Emails: 5
+
+SUMMARY:
+--------------------
+🎯 Priority Alert
+Hey! I've got a heads up for you. This email looks super urgent: "There are only 3 days left to complete your submission for TiDB AgentX Hackathon 2025." You need to finalize your registration and submit your PPT ASAP to avoid missing the deadline on [Date]. I recommend you prioritize this one first, as it's a time-sensitive opportunity. Make sure to get that done quickly so you don't miss out! 💨
+
+📨 Quick Rundown
+Okay, let's give you a quick rundown of the other emails:
+- EMAIL 1: This is a promotional email from Team Unstop (formerly Dare2Compete) with some free prep materials for Accenture jobs. Nothing too urgent here.
+- EMAIL 2: Looks like an onboarding email from DEV Community Onboarding about your new home feed. Just take a few minutes to get familiar with it, and you'll be good to go!
+- EMAIL 3: Another promotional email from Unstop with some exciting news about certification programs in India's top institutes. It sounds cool, but no deadline or urgency here.
+- EMAIL 4: You're already aware of the hackathon, so this is just a friendly reminder to confirm your participation before the deadline. Easy peasy!
+
+How do you want me to help you tackle these emails?
+
+DETAILED EMAIL LIST:
+------------------------------
+
+EMAIL 1:
+From: "Team Unstop (formerly Dare2Compete)" <noreply@dare2compete.news>
+Subject: FREE Prep for 23,000+ Accenture jobs – start today!
+Preview: ...
+----------------------------------------
+
+EMAIL 2:
+From: DEV Community Onboarding <yo@dev.to>
+Subject: Getting to know your DEV home feed
+Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+  <body style='font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetic...
+----------------------------------------
+
+EMAIL 3:
+From: Unstop <noreply@dare2compete.news>
+Subject: Ritanshu, you can be certified a champ from India’s 5 top institutes!
+Preview: ...
+----------------------------------------
+
+EMAIL 4:
+From: Devpost <support@devpost.com>
+Subject: Final call for submissions - TiDB AgentX Hackathon 2025
+Preview: ( http://devpost.com )
+
+There are only 3 days left to complete your submission for TiDB AgentX Hackathon 2025 ( https://tidb-2025-hackathon.devpost.com/ ).
+
+You received this email because you sig...
+----------------------------------------
+
+EMAIL 5:
+From: craftverse_comp2025@pccoer.in
+Subject: Incomplete Registration for CraftVerse 2025-via Unstop
+Preview: Dear Participant,
+
+Your CraftVerse Hackathon registration is currently incomplete. To confirm
+your participation and move forward to Round 1, you are required to
+complete your registration and the...
+----------------------------------------

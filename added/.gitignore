@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+jarvis-env/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+jarvis.db
+
+# Logs
+logs/
+*.log
+
+# Audio/Video files
+*.wav
+*.mp3
+*.mp4
+*.avi
+
+# Images
+Images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+capture.png
+
+# AI Models
+models/
+*.bin
+*.gguf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Chat logs
+ChatLog.json
+chat_history/
+
+# Cookies and auth
+cookies.json
+auth_data/
+
+# Android
+*.apk
+adb.exe

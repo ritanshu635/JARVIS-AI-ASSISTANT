@@ -1,0 +1,6 @@
+# Additional requirements for AI Code Reviewer feature
+# Install with: pip install -r code_analysis_requirements.txt
+
+openai>=1.0.0
+pytesseract>=0.3.10
+Pillow>=9.0.0

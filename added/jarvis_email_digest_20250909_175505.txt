@@ -1,0 +1,75 @@
+============================================================
+JARVIS EMAIL DIGEST
+============================================================
+Generated: 2025-09-09 17:55:05
+Total Unread Emails: 5
+
+SUMMARY:
+--------------------
+Good morning, Tony Stark! I've got your unread emails ready.
+
+There are 5 unread emails in total. Let me break them down for you:
+
+Email 1: Looks like a newsletter from DEV community onboarding, asking you to refine your tags. Nothing too urgent here.
+
+Email 2: Tata Group is hiring interns, and you're eligible! Make sure to check the details and apply soon.
+
+Email 3: Only 7 days left to submit your project for the TiDB Hackathon 2025. Don't miss this deadline!
+
+Email 4: Invitation to API World + CloudX + DataWeek 2025 online event. You've already registered, but make sure to check the agenda.
+
+Email 5: Build your perfect agenda for API World 2025 by this week! Get planning and join the event.
+
+That's it. I've summarized each email for you. Anything else I can help with, Tony?
+
+DETAILED EMAIL LIST:
+------------------------------
+
+EMAIL 1:
+From: DEV Community Onboarding <yo@dev.to>
+Subject: Refine which tags you follow on DEV
+Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+  <body style='font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetic...
+----------------------------------------
+
+EMAIL 2:
+From: Tata Crucible Campus Quiz <noreply@dare2compete.news>
+Subject: Tata Group is hiring interns* | Tata Crucible Campus Quiz- You are eligible
+Preview: ...
+----------------------------------------
+
+EMAIL 3:
+From: Devpost <support@devpost.com>
+Subject: 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025
+Preview: ( http://devpost.com )
+
+Hi Hackathon builders,
+
+ 
+
+Just 7 days left until the TiDB Hackathon submission deadline! We’re excited to see all the amazing projects you’ve been building.
+
+While rev...
+----------------------------------------
+
+EMAIL 4:
+From: DevNetwork <no-reply@events.ringcentral.com>
+Subject: Online event invitation
+Preview: ------------------------------------
+Thank you for registering to attend
+------------------------------------
+
+------------------------------------
+API World + CloudX + DataWeek 2025!
+----------...
+----------------------------------------
+
+EMAIL 5:
+From: API World <info@mail.devnetwork.com>
+Subject: Don't wait! Build your perfect agenda for API World 2025 this week!
+Preview: <!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <!-- NAME: 1:2:1 COLUMN - FU...
+----------------------------------------

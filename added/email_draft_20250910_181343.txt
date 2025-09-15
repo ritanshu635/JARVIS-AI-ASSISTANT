@@ -1,0 +1,24 @@
+============================================================
+EMAIL DRAFT
+============================================================
+Created: 2025-09-10 18:13:43
+To: test@example.com
+Subject: Test Email Draft
+------------------------------------------------------------
+Dear Manager,
+
+I am writing to request leave from work due to illness.
+
+Please find the details below:
+- Type: Sick leave
+- From: Tomorrow
+- Until: Day after tomorrow
+- Reason: Fever and need rest
+
+I would appreciate your approval for this leave request.
+
+Thank you for your consideration.
+
+Best regards,
+[Your Name]
+============================================================

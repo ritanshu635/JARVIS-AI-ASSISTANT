@@ -1,0 +1,72 @@
+============================================================
+JARVIS EMAIL DIGEST
+============================================================
+Generated: 2025-09-09 19:54:08
+Total Unread Emails: 5
+
+SUMMARY:
+--------------------
+⚠️ Priority Alert! 🎯
+
+Hey, I've got a big one here that needs your attention ASAP. This email from Tata Imagination Challenge is about an opportunity to participate in a hiring challenge that's tailor-made for you. The deadline is on September 15th, and if you don't act now, it might be too late. I recommend you focus on this first and get started as soon as possible.
+
+ 📨 Quick Rundown
+
+The other emails are mostly promotional or informational. Here's a quick rundown:
+
+- LinkedIn is inviting you to an event, but it doesn't seem too urgent.
+- DEV Community Onboarding is asking you to refine your tags on their platform, which might be worth checking out if you're active there.
+- Tata Crucible Campus Quiz is letting you know about an internship opportunity with the Tata Group, and you are eligible!
+- Devpost is sending a reminder about an upcoming hackathon submission deadline, but it's not as time-sensitive as the first email.
+- DevNetwork is inviting you to an online event, API World + CloudX + DataWeek 2025, which might be worth attending if you're interested in that topic.
+
+Take your pick!
+
+DETAILED EMAIL LIST:
+------------------------------
+
+EMAIL 1:
+From: Tata Imagination Challenge <noreply@dare2compete.news>
+Subject: You actively participate in hiring challenges, this one’s tailor made for you!
+Preview: ...
+----------------------------------------
+
+EMAIL 2:
+From: DEV Community Onboarding <yo@dev.to>
+Subject: Refine which tags you follow on DEV
+Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+  <body style='font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetic...
+----------------------------------------
+
+EMAIL 3:
+From: Tata Crucible Campus Quiz <noreply@dare2compete.news>
+Subject: Tata Group is hiring interns* | Tata Crucible Campus Quiz- You are eligible
+Preview: ...
+----------------------------------------
+
+EMAIL 4:
+From: Devpost <support@devpost.com>
+Subject: 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025
+Preview: ( http://devpost.com )
+
+Hi Hackathon builders,
+
+ 
+
+Just 7 days left until the TiDB Hackathon submission deadline! We’re excited to see all the amazing projects you’ve been building.
+
+While rev...
+----------------------------------------
+
+EMAIL 5:
+From: DevNetwork <no-reply@events.ringcentral.com>
+Subject: Online event invitation
+Preview: ------------------------------------
+Thank you for registering to attend
+------------------------------------
+
+------------------------------------
+API World + CloudX + DataWeek 2025!
+----------...
+----------------------------------------

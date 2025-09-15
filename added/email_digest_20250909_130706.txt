@@ -1,0 +1,247 @@
+Email Digest - 2025-09-09 13:07:06
+============================================================
+
+📧 EMAIL DIGEST - 5 Unread Emails
+==================================================
+
+🚨 URGENT EMAILS:
+• 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025 (from Devpost <support@devpost.com>)
+• ONE WEEK Left to Submit! - Code with Kiro Hackathon (from Devpost <support@devpost.com>)
+
+📋 ACTION REQUIRED:
+• Online event invitation (from DevNetwork <no-reply@events.ringcentral.com>)
+
+📰 INFORMATIONAL:
+• Don't wait! Build your perfect agenda for API World 2025 this week! (from API World <info@mail.devnetwork.com>)
+• National Institute of Bank Management Alumni Committee recently posted (from LinkedIn <updates-noreply@linkedin.com>)
+
+📊 TOTAL: 5 unread emails processed
+
+============================================================
+Detailed Emails:
+
+EMAIL 1:
+Subject: 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025
+From: Devpost <support@devpost.com>
+Date: Tue, 09 Sep 2025 06:48:32 +0000
+Content: ( http://devpost.com )
+
+
+
+Hi Hackathon builders,
+
+
+
+ 
+
+
+
+Just 7 days left until the TiDB Hackathon submission deadline! We’re excited to see all the amazing projects you’ve been building.
+
+
+
+While reviewing some early submissions, we noticed that a few demo videos were missing key parts that helped judges understand the project better. To help you, we’ve put together a suggested outline of what a strong demo video could include (this is just a recommendation, not a requirement):
+
+
+
+ 
+
+
+
+Suggested Demo Video Outline:
+
+-----------------------------
+
+
+
+* Introduction: Briefly introduce your team members, your project name, your slogan, and what problem your project solves.
+
+* Demo Showcase: Walk through your app in action, highlighting its innovative and unique features.It would be great if you could also add a quick 3–5 second snippet showing how you use TiDB.
+
+* How it works: Show how your project, built on TiDB Cloud Serverless (e.g., Vector Store, Agent Memory, etc.), demonstrates rea
+----------------------------------------
+
+EMAIL 2:
+Subject: Online event invitation
+From: DevNetwork <no-reply@events.ringcentral.com>
+Date: Mon, 08 Sep 2025 20:58:55 +0000 (UTC)
+Content: ------------------------------------
+
+Thank you for registering to attend
+
+------------------------------------
+
+
+
+------------------------------------
+
+API World + CloudX + DataWeek 2025!
+
+------------------------------------
+
+
+
+-----------------------------------------------------------------
+
+Click the button below for your personal login to join the online
+
+event.
+
+-----------------------------------------------------------------
+
+
+
+Your Personal Login (Join Event) 
+
+( https://events.ringcentral.com/magic_links/b537db3c-37e4-4e34-871c-5590f1beafba/accept )
+
+
+
+-----------------------------------------------------------------
+
+
+
+Save this email and use the button above once you are ready to
+
+join the event.
+
+
+
+Please note you may be directed to agree to RingCentral's terms &
+
+privacy policy (our virtual event platform) before you can access
+
+the event online.
+
+
+
+We look forward to seeing you there!
+
+
+
+-------------
+
+2025 Sponsors
+
+-------------
+
+
+
+Your Personal Login (Join Event) 
+
+(
+----------------------------------------
+
+EMAIL 3:
+Subject: Don't wait! Build your perfect agenda for API World 2025 this week!
+From: API World <info@mail.devnetwork.com>
+Date: Mon, 8 Sep 2025 19:01:33 +0000
+Content: <!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+    <head>
+
+        <!-- NAME: 1:2:1 COLUMN - FULL WIDTH -->
+
+        <!--[if gte mso 15]>
+
+        <xml>
+
+            <o:OfficeDocumentSettings>
+
+            <o:AllowPNG/>
+
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+
+            </o:OfficeDocumentSettings>
+
+        </xml>
+
+        <![endif]-->
+
+        <meta charset="UTF-8">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"><meta content="id: 2025-09-08-14:49:50:441t">
+
+    </head>
+
+    <body style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;">
+
+        <center>
+
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: c
+----------------------------------------
+
+EMAIL 4:
+Subject: ONE WEEK Left to Submit! - Code with Kiro Hackathon
+From: Devpost <support@devpost.com>
+Date: Mon, 08 Sep 2025 16:02:24 +0000
+Content: ( http://devpost.com )
+
+
+
+The moment of truth is almost here! You have exactly one week left until the Kiro Hackathon submission deadline on Monday, September 15th, at 12:00 PM PDT.
+
+
+
+If you haven't already, please review the "What to Submit" section and the Official Rules one last time to ensure every detail is covered. We know you've poured your creativity and effort into these projects, and we can't wait to see your final innovations built with Kiro.
+
+
+
+Don't wait until the last minute – unexpected issues can arise! Submit early, and ensure everything is complete and publicly accessible. Good luck with these final days of development and preparation!
+
+
+
+You received this email because you signed up for Code with Kiro Hackathon. If you're no longer participating, you can unregister here ( https://kiro.devpost.com/ ).
+
+
+
+© 2025 Devpost, Inc. All rights reserved. Unsubscribe from these notifications ( https://devpost.com/notification_subscriptions/XkFfazPlDiNj3lJecmIUDw )
+----------------------------------------
+
+EMAIL 5:
+Subject: National Institute of Bank Management Alumni Committee recently posted
+From: LinkedIn <updates-noreply@linkedin.com>
+Date: Mon, 8 Sep 2025 14:17:44 +0000 (UTC)
+Content: Alumni Relations Committee - NIBM, Pune shared a post: We are beyond delighted to welcome the incoming members of the Alumni Relations Committee - NIBM, Pune, for the 2025–2027 term.
+
+
+
+As they take on this…
+
+LIKE PRAISE EMPATHY 292, 17 Comments
+
+
+
+
+
+Read more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7368889994603638784?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3B4MLq%2FgQJSlSKfifQgBHVDg%3D%3D&midToken=AQEdPNpUdijXSA&midSig=2_31WsuUwVWHU1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-pp4eej~mfb6zb3r~oi-null-null&eid=pp4eej-mfb6zb3r-oi&otpToken=MTMwMDFiZTMxYTJiYzljNGJkMmYwZmViNDExYmUwYjc4YmNmZDA0NzlhYWI4ODZkN2JjNjAwNmM0OTVhNWRmNGY0ZDBkMWUyMThmNmMzODY3NWFiZmViMjFjZGM3MWFjZjJlYTc3NTQ1ODdjN2Y3NmU0ZmFhNzM5MDksMSwx
+
+        
+
+
+
+
+
+
+
+          
+
+        
+
+
+
+          VPKBIET Baramati shared a post: 
+
+LIKE 28
+
+
+
+
+
+Read mor
+----------------------------------------
+

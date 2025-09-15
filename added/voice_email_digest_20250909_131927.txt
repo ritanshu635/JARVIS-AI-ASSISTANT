@@ -1,0 +1,73 @@
+============================================================
+JARVIS VOICE EMAIL DIGEST
+============================================================
+Generated: 2025-09-09 13:19:27
+Total Unread Emails: 5
+
+SUMMARY:
+--------------------
+I've analyzed the five unread emails for you.
+
+Firstly, there are five emails in total that require your attention.
+
+Now, let's break them down. The most urgent emails appear to be from Devpost regarding the TiDB AgentX Hackathon submission deadline (just 7 days left) and another email reminding you about the Code with Kiro Hackathon submission deadline (one week left). Both of these emails seem quite important, so it's worth taking a closer look at them first.
+
+The other two emails are from DevNetwork and API World, inviting you to an online event. While they're not as time-sensitive, it's still worth reviewing their content to ensure you don't miss out on any valuable information.
+
+Action items include submitting your projects and demo videos for both hackathons by Monday at 12:00 PM PDT.
+
+DETAILED EMAIL LIST:
+------------------------------
+
+EMAIL 1:
+From: Devpost <support@devpost.com>
+Subject: 7 Days Left! Submit Your Project + Demo Video Tips - TiDB AgentX Hackathon 2025
+Preview: ( http://devpost.com )
+
+Hi Hackathon builders,
+
+ 
+
+Just 7 days left until the TiDB Hackathon submission deadline! We’re excited to see all the amazing projects you’ve been building.
+
+While rev...
+----------------------------------------
+
+EMAIL 2:
+From: DevNetwork <no-reply@events.ringcentral.com>
+Subject: Online event invitation
+Preview: ------------------------------------
+Thank you for registering to attend
+------------------------------------
+
+------------------------------------
+API World + CloudX + DataWeek 2025!
+----------...
+----------------------------------------
+
+EMAIL 3:
+From: API World <info@mail.devnetwork.com>
+Subject: Don't wait! Build your perfect agenda for API World 2025 this week!
+Preview: <!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <!-- NAME: 1:2:1 COLUMN - FU...
+----------------------------------------
+
+EMAIL 4:
+From: Devpost <support@devpost.com>
+Subject: ONE WEEK Left to Submit! - Code with Kiro Hackathon
+Preview: ( http://devpost.com )
+
+The moment of truth is almost here! You have exactly one week left until the Kiro Hackathon submission deadline on Monday, September 15th, at 12:00 PM PDT.
+
+If you haven't ...
+----------------------------------------
+
+EMAIL 5:
+From: LinkedIn <updates-noreply@linkedin.com>
+Subject: National Institute of Bank Management Alumni Committee recently posted
+Preview: Alumni Relations Committee - NIBM, Pune shared a post: We are beyond delighted to welcome the incoming members of the Alumni Relations Committee - NIBM, Pune, for the 2025–2027 term.
+
+As they take o...
+----------------------------------------
