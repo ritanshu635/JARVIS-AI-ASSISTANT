@@ -14,7 +14,7 @@ This document outlines the requirements for building a unified JARVIS personal a
 
 1. WHEN the system starts THEN it SHALL attempt to connect to local Ollama instance first
 2. WHEN Ollama is available THEN the system SHALL use it for general queries and content generation
-3. WHEN Ollama is unavailable THEN the system SHALL fall back to Groq API (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)
+3. WHEN Ollama is unavailable THEN the system SHALL fall back to Groq API 
 4. WHEN real-time search is needed THEN the system SHALL use appropriate search APIs
 5. WHEN image generation is requested THEN the system SHALL use available local or cloud services
 6. WHEN content writing is requested THEN the system SHALL generate letters, essays, code, and documents
